@@ -1,0 +1,602 @@
+Identifiers,ADOS_classification,ADOS_restricted_repetitive_behavior_total,ADOS_severity_score_lookup,ADOS_social_affect_restricted_repetitive_behavior_total,ADOS_social_affect_total,CandID,DX_Subgroups,Sex,Risk,Site,Status,V24_mullen_cognitive_t_score_sum,V24_mullen_composite_description,V24_mullen_composite_percentile,V24_mullen_composite_standard_score,V24_mullen_expressive_language_percentile,V24_mullen_expressive_language_t,V24_mullen_fine_motor_percentile,V24_mullen_fine_motor_t,V24_mullen_gross_motor_percentile,V24_mullen_gross_motor_t,V24_mullen_receptive_language_percentile,V24_mullen_receptive_language_t,V24_mullen_visual_reception_percentile,V24_mullen_visual_reception_t,V24_vineland_ABC_STD_SCORE,V24_vineland_ABC_SUM_ALL_DOM_STD_SCORES,V24_vineland_COM_STD_SCORE,V24_vineland_DLS_STD_SCORE,V24_vineland_MS_STD_SCORE,V24_vineland_SOC_STD_SCORE
+PHI0000,autism,3,8,17,14,389101,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,123,Very Low,1,65,1,28,1,23,14,39,2,30,21,42,91,373,100,89,93,91
+PHI0002,autism,2,8,17,15,695831,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,124,Very Low,1,65,8,36,4,32,2,30,1,24,4,32,83,345,91,82,85,87
+PHI0003,autism,3,8,17,14,138494,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,134,Very Low,2,69,1,20,42,48,7,35,1,20,34,46,92,374,94,85,108,87
+PHI0005,autism,3,7,21,18,382140,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,107,Very Low,1,58,1,20,1,24,2,30,1,20,24,43,84,347,76,87,100,84
+PHI0010,autism,2,7,16,14,929204,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,199,Average,49,99,84,60,16,40,7,35,16,40,82,59,95,384,105,96,95,88
+PHI0014,autism,2,6,12,10,809318,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,194,Average,42,97,42,48,42,48,7,35,58,52,34,46,100,401,101,100,105,95
+PHI0016,autism,3,7,16,13,927676,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,220,Average,75,110,76,57,42,48,14,39,73,56,82,59,94,380,100,89,96,95
+PHI0052,autism,6,7,16,10,230955,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,167,Below Average,14,84,27,44,4,32,27,44,82,59,4,32,85,351,100,86,81,84
+PHI0071,autism,4,7,16,12,160209,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,227,Average,82,114,76,57,58,52,1,26,73,56,88,62,85,350,90,83,95,82
+PHI0072,autism,3,8,17,14,567669,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,,,,,,,,,,,,,,,,,,,,
+PHI0083,autism,1,7,16,15,270129,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Excluded,144,Below Average,4,73,18,41,27,44,2,30,1,27,4,32,,,,,,
+PHI0110,autism,2,6,13,11,687679,YES DSM_IV questions 4a/4b is Yes,Female,HR,PHI,Active,158,Below Average,9,80,12,38,27,44,2,30,1,20,73,56,88,362,89,87,93,93
+PHI0112,autism,3,7,14,11,137345,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,PHI,Active,231,Above Average,85,116,84,60,73,56,54,51,82,59,73,56,108,427,103,107,105,112
+PHI0173,autism,3,6,19,16,841812,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,110,Very Low,1,59,1,20,8,36,1,26,1,20,5,34,77,321,71,83,85,82
+PHI0190,autism,3,7,15,12,919979,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,141,Below Average,3,72,18,41,16,40,27,44,1,20,16,40,73,306,69,83,81,73
+PHI0192,autism,4,7,20,16,867237,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,118,Very Low,1,63,1,28,4,32,7,35,1,20,12,38,72,304,71,77,78,78
+PHI0206,autism,2,8,19,17,526558,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,145,Below Average,4,74,4,33,58,52,7,35,1,20,16,40,98,394,100,96,106,92
+PHI0221,autism,3,8,14,11,425862,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,PHI,Active,209,Average,62,105,95,66,27,44,14,39,73,56,24,43,91,370,110,78,96,86
+PHI0223,autism,1,7,20,19,931489,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,99,Very Low,1,55,1,20,14,39,1,26,1,20,1,20,87,357,86,87,100,84
+PHI1022,autism,3,7,14,11,530925,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,162,Below Average,11,82,12,38,4,32,27,44,58,52,16,40,91,372,94,87,96,95
+PHI1042,autism,7,8,22,15,350482,YES DSM_IV questions 4a/4b is Yes,Female,HR,PHI,Active,130,Very Low,1,67,2,30,8,36,14,39,1,24,16,40,73,307,73,75,84,75
+PHI1073,autism,3,9,21,18,246238,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,134,Very Low,2,69,8,36,27,44,7,35,1,20,5,34,81,338,76,83,93,86
+SEA0009,autism,2,6,12,10,804916,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Complete,205,Average,57,102,54,51,58,52,54,51,82,59,24,43,110,433,110,105,111,107
+SEA0015,autism,3,8,19,16,495631,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,146,Below Average,4,74,2,30,18,41,16,40,1,23,58,52,86,354,86,93,93,82
+SEA0037,autism,1,6,12,11,271626,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,216,Average,70,108,34,46,42,48,54,51,90,63,82,59,102,407,107,102,105,93
+SEA0136,autism,1,6,13,12,769060,YES DSM_IV questions 4a/4b is Yes,Female,LR,SEA,Active,226,Average,81,113,42,48,84,60,79,58,82,59,82,59,94,382,101,98,88,95
+SEA0163,autism,7,7,21,14,988903,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,138,Below Average,3,71,2,30,42,48,7,35,1,20,16,40,84,349,87,96,84,82
+SEA0178,autism,2,6,18,16,931343,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,200,Average,50,100,8,36,58,52,27,44,50,50,88,62,95,386,102,99,95,90
+SEA0194,autism,4,8,18,14,973338,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,194,Average,42,97,46,49,21,42,14,39,54,51,58,52,86,356,91,93,90,82
+SEA0213,autism,2,6,13,11,479010,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,208,Average,61,104,12,38,96,68,42,48,73,56,34,46,91,371,89,96,100,86
+SEA0254,autism,1,6,13,12,638999,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,180,Average,25,90,42,48,27,44,14,39,50,50,12,38,98,395,105,99,95,96
+SEA1001,autism,3,7,15,12,569748,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,159,Below Average,9,80,12,38,42,48,1,20,1,20,62,53,,,,,,
+SEA1008,autism,5,7,15,10,985491,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,185,Average,31,93,58,52,21,42,,,54,51,16,40,101,403,101,102,100,100
+SEA1013,autism,6,9,21,15,857317,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,137,Very Low,2,70,7,35,21,42,73,56,1,23,10,37,94,380,91,96,102,91
+SEA1038,autism,7,10,25,18,747349,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,145,Below Average,4,74,1,28,27,44,2,30,1,20,62,53,73,305,66,71,90,78
+SEA1044,autism,2,7,14,12,447754,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,223,Average,78,112,66,54,8,36,54,51,96,68,93,65,,,,,,
+STL0108,autism,4,8,17,13,172993,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,225,Average,80,113,79,58,95,66,14,39,66,54,38,47,71,297,66,82,88,61
+STL0133,autism,2,7,21,19,703249,YES DSM_IV questions 4a/4b is Yes,Female,HR,STL,Complete,80,Very Low,1,49,1,20,1,20,7,35,1,20,1,20,84,348,74,91,90,93
+STL0143,autism,3,6,16,13,252848,YES DSM_IV questions 4a/4b is Yes,Female,HR,STL,Complete,135,Very Low,2,70,1,20,58,52,2,30,1,20,24,43,80,332,71,91,78,92
+STL0193,autism,3,8,22,19,348547,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,92,Very Low,1,53,1,20,4,32,2,30,1,20,1,20,,,,,,
+STL0194,autism,4,7,14,10,553295,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,143,Below Average,4,73,4,33,27,44,14,39,1,20,34,46,79,330,66,93,85,86
+STL0266,autism,5,9,24,19,751794,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,124,Very Low,1,65,1,28,8,36,42,48,1,20,16,40,84,348,71,83,105,89
+STL0289,autism,4,7,14,10,417879,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,146,Below Average,4,74,10,37,34,46,5,34,2,30,4,33,107,424,97,111,100,116
+STL0301,autism,3,6,16,13,938659,,Male,,STL,Active,80,Very Low,1,49,1,20,1,20,1,20,1,20,1,20,61,256,64,67,55,70
+STL0311,autism,5,8,22,17,998384,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,,,,,,,4,32,,,,,4,32,,,,,,
+STL0313,autism,3,7,16,13,860419,YES DSM_IV questions 4a/4b is Yes,Female,HR,STL,Complete,166,Below Average,13,83,8,36,27,44,54,51,58,52,5,34,84,348,86,87,93,82
+STL0337,autism,4,6,17,13,549967,YES DSM_IV questions 4a/4b is Yes,Male,,STL,Active,84,Very Low,1,50,1,20,1,24,7,35,1,20,1,20,86,353,81,83,100,89
+UNC0011,autism,2,8,17,15,356188,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,132,Very Low,2,68,12,38,8,36,42,48,1,24,5,34,91,371,91,93,100,87
+UNC0016,autism,0,6,12,12,155712,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,142,Below Average,3,73,10,37,21,42,38,47,1,26,10,37,94,381,91,98,105,87
+UNC0019,autism,3,6,12,9,996243,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,189,Average,36,95,99,73,1,24,7,35,58,52,16,40,94,383,97,93,100,93
+UNC0073,autism,4,7,16,12,600014,YES DSM_IV questions 4a/4b is Yes,Male,LR,UNC,Active,110,Very Low,1,59,4,32,7,35,50,50,1,20,1,23,89,365,84,96,96,89
+UNC0077,autism,4,7,21,17,389521,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,84,Very Low,1,50,1,20,1,24,14,39,1,20,1,20,73,306,71,69,88,78
+UNC0086,autism,4,9,24,20,916595,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,80,Very Low,1,49,1,20,1,20,38,47,1,20,1,20,58,242,43,67,79,53
+UNC0091,autism,3,7,14,11,641078,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,160,Below Average,10,81,73,56,7,35,50,50,34,46,1,23,95,385,97,102,93,93
+UNC0094,autism,1,6,12,11,253173,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,UNC,Active,226,Average,81,113,54,51,84,60,79,58,73,56,82,59,95,386,97,91,96,102
+UNC0100,autism,8,9,24,16,812857,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,92,Very Low,1,53,1,20,1,24,54,51,1,24,1,24,76,316,71,75,90,80
+UNC0107,autism,1,6,16,15,903923,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,159,Below Average,9,80,8,36,84,60,79,58,1,20,24,43,96,388,79,102,114,93
+UNC0115,autism,4,6,19,15,174982,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,116,Very Low,1,62,1,22,8,36,27,44,1,20,12,38,78,326,71,89,82,84
+UNC0185,autism,0,8,17,17,175448,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,157,Below Average,8,79,31,45,7,35,38,47,16,40,10,37,86,354,91,91,96,76
+UNC0226,autism,0,7,16,16,241033,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,183,Average,29,92,12,38,16,40,14,39,58,52,62,53,100,401,100,105,96,100
+UNC0250,autism,7,7,20,13,333526,,Female,,UNC,Active,101,Very Low,1,56,1,25,4,32,1,22,1,20,1,24,62,258,58,57,78,65
+UNC1028,autism,5,7,16,11,203778,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,175,Average,21,88,73,56,1,26,46,49,46,49,27,44,84,349,97,82,88,82
+PHI0009,autism spectrum,4,5,11,7,838659,,Female,HR,PHI,Refused/Not Enrolled,273,Very High,99,136,99,79,92,64,54,51,90,63,96,67,,,,,,
+PHI0116,autism spectrum,0,4,8,8,544847,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,PHI,Active,231,Above Average,85,116,34,46,92,64,27,44,82,59,88,62,95,384,94,100,90,100
+PHI0117,autism spectrum,1,4,8,7,639315,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,PHI,Active,243,Above Average,92,122,76,57,92,64,54,51,90,63,82,59,102,409,101,104,111,93
+PHI0150,autism spectrum,3,4,10,7,291809,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,141,Below Average,3,72,4,32,14,39,,,1,23,38,47,97,390,94,104,108,84
+PHI0155,autism spectrum,2,5,9,7,432933,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,PHI,Active,275,Very High,99,137,99,75,73,56,86,61,99,74,98,70,99,397,107,100,90,100
+PHI0171,autism spectrum,2,5,11,9,589344,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,146,Below Average,4,74,16,40,21,42,2,30,1,20,27,44,85,350,84,89,88,89
+PHI0225,autism spectrum,2,4,10,8,373485,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,229,Average,83,115,34,46,92,64,42,48,90,63,73,56,101,404,100,100,102,102
+PHI0242,autism spectrum,0,4,8,8,963368,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,198,Average,47,99,66,54,42,48,,,50,50,34,46,101,406,102,98,104,102
+PHI0265,autism spectrum,2,4,8,6,813346,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,192,Average,39,96,34,46,27,44,27,44,82,59,24,43,86,354,84,98,90,82
+PHI0273,autism spectrum,1,4,9,8,570210,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,PHI,Active,204,Average,55,102,54,51,27,44,42,48,73,56,62,53,104,414,107,95,114,98
+PHI1072,autism spectrum,4,5,11,7,391729,YES DSM_IV questions 4a/4b is Yes,Female,HR,PHI,Active,175,Average,21,88,42,48,27,44,42,48,16,40,24,43,101,404,100,104,104,96
+SEA0001,autism spectrum,1,4,8,7,321541,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Complete,186,Average,32,93,42,48,42,48,14,39,38,47,24,43,100,402,100,107,95,100
+SEA0022,autism spectrum,2,4,8,6,714779,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Active,160,Below Average,10,81,16,40,21,42,14,39,1,26,58,52,105,416,101,104,111,100
+SEA0034,autism spectrum,5,4,9,4,108001,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,204,Average,55,102,27,44,58,52,66,54,58,52,73,56,99,399,94,102,108,95
+SEA0069,autism spectrum,1,4,12,11,460612,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,132,Very Low,2,68,7,35,7,35,50,50,1,20,21,42,90,368,86,95,100,87
+SEA0072,autism spectrum,1,5,11,10,767410,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,SEA,Active,155,Below Average,7,78,27,44,42,48,27,44,1,20,24,43,,,,,,
+SEA0099,autism spectrum,3,5,11,8,235108,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,180,Average,25,90,27,44,16,40,79,58,50,50,34,46,104,415,102,109,106,98
+SEA0107,autism spectrum,4,4,10,6,336576,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,158,Below Average,9,80,42,48,4,32,2,30,4,32,34,46,82,340,81,87,85,87
+SEA0141,autism spectrum,2,5,11,9,934404,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,SEA,Active,250,Above Average,95,125,42,48,73,56,79,58,95,66,99,80,96,388,94,105,102,87
+SEA0202,autism spectrum,3,4,13,10,704954,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,179,Average,24,90,2,30,42,48,54,51,58,52,46,49,97,390,90,96,100,104
+SEA0210,autism spectrum,4,4,12,8,810826,YES DSM_IV questions 4a/4b is Yes,Male,LR,SEA,Active,163,Below Average,12,82,8,36,16,40,42,48,12,38,46,49,78,325,80,75,95,75
+SEA0235,autism spectrum,1,4,8,7,784198,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,171,Average,17,86,16,40,21,42,50,50,5,34,69,55,101,406,97,105,102,102
+SEA0269,autism spectrum,3,4,10,7,516442,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Active,218,Average,73,109,92,64,34,46,38,47,42,48,84,60,103,410,116,105,93,96
+SEA1004,autism spectrum,6,5,11,5,552855,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,127,Very Low,1,66,4,33,16,40,14,39,1,20,5,34,84,346,86,89,93,78
+SEA1009,autism spectrum,2,4,9,7,298555,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,122,Very Low,1,64,2,29,4,32,42,48,1,25,8,36,78,324,81,80,85,78
+SEA1033,autism spectrum,2,4,10,8,439857,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,152,Below Average,6,77,8,36,16,40,7,35,27,44,4,32,,,,,,
+SEA1040,autism spectrum,1,4,9,8,987379,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,SEA,Active,221,Average,76,111,84,60,58,52,27,44,73,56,62,53,108,426,102,109,102,113
+SEA1042,autism spectrum,1,4,10,9,152174,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,179,Average,24,90,14,39,5,34,46,49,31,45,86,61,,58,,,,
+SEA1045,autism spectrum,1,5,9,8,597653,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,270,Very High,99,134,99,73,73,56,79,58,98,71,98,70,,66,,,,
+SEA1054,autism spectrum,2,4,13,11,921319,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,118,Very Low,1,63,2,30,7,35,24,43,1,20,4,33,,37,,,,
+SEA1055,autism spectrum,3,4,9,6,631731,YES DSM_IV questions 4a/4b is Yes,Female,HR,SEA,Active,231,Above Average,85,116,54,51,58,52,86,61,95,66,88,62,,30,,,,
+STL0003,autism spectrum,0,4,10,10,992063,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,147,Below Average,5,75,12,38,8,36,7,35,1,24,46,49,105,419,103,109,100,107
+STL0011,autism spectrum,0,4,8,8,638375,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,226,Average,81,113,54,51,84,60,86,61,73,56,82,59,114,445,103,113,117,112
+STL0026,autism spectrum,3,4,13,10,443584,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,106,Very Low,1,58,1,22,4,32,7,35,1,20,4,32,85,352,81,96,79,96
+STL0028,autism spectrum,1,4,10,9,930203,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,158,Below Average,9,80,8,36,4,32,14,39,27,44,34,46,90,369,100,86,95,88
+STL0040,autism spectrum,3,5,14,11,490878,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,114,Very Low,1,61,1,20,8,36,27,44,1,20,12,38,83,342,79,91,90,82
+STL0115,autism spectrum,3,5,11,8,551837,YES DSM_IV questions 4a/4b is Yes,Female,HR,STL,Complete,179,Average,24,90,8,36,27,44,27,44,50,50,46,49,,,,,,
+STL0126,autism spectrum,1,4,9,8,110940,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,177,Average,22,89,31,45,34,46,24,43,34,46,16,40,106,422,97,111,104,110
+STL0136,autism spectrum,1,4,8,7,822168,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,,,,,,,,,,,,,,,95,384,94,102,88,100
+STL0176,autism spectrum,2,5,11,9,859176,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,166,Below Average,13,83,46,49,10,37,4,33,34,46,5,34,81,337,91,75,82,89
+STL0200,autism spectrum,5,4,13,8,107524,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,134,Very Low,2,69,8,36,27,44,54,51,1,20,5,34,94,383,76,102,102,103
+STL0210,autism spectrum,6,4,9,3,988197,YES DSM_IV questions 4a/4b is Yes,Female,HR,STL,Complete,184,Average,30,92,84,60,8,36,1,20,50,50,12,38,91,372,109,83,84,96
+STL0291,autism spectrum,2,4,10,8,943489,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,180,Average,25,90,66,54,42,48,42,48,12,38,16,40,107,423,100,113,95,115
+STL0318,autism spectrum,4,4,10,6,268987,,Female,,STL,Active,146,Below Average,4,74,4,33,27,44,42,48,1,20,46,49,90,369,91,91,96,91
+STL1008,autism spectrum,2,4,9,7,858677,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Active,164,Below Average,12,82,8,36,27,44,27,44,7,35,46,49,89,366,91,89,88,98
+STL1054,autism spectrum,3,5,11,8,628043,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Active,166,Below Average,13,83,54,51,4,32,14,39,2,30,62,53,91,372,89,95,93,95
+UNC0003,autism spectrum,0,4,9,9,730091,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,UNC,Active,263,Very High,98,131,96,68,99,80,2,30,73,56,82,59,93,377,100,91,100,86
+UNC0007,autism spectrum,3,5,15,12,262343,YES DSM_IV questions 4a/4b is Yes,Female,HR,UNC,Active,135,Very Low,2,70,8,36,16,40,14,39,7,35,1,24,78,327,79,80,88,80
+UNC0013,autism spectrum,2,4,11,9,792210,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,UNC,Active,252,Above Average,96,126,98,70,98,70,50,50,66,54,79,58,104,414,101,109,108,96
+UNC0022,autism spectrum,0,4,8,8,950194,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,189,Average,36,95,38,47,14,39,24,43,42,48,69,55,94,380,94,93,100,93
+UNC0035,autism spectrum,3,5,15,12,396346,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,187,Average,33,94,1,20,58,52,79,58,73,56,82,59,84,348,89,83,100,76
+UNC0076,autism spectrum,2,4,13,11,910593,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,139,Below Average,3,71,8,36,8,36,54,51,1,27,16,40,84,349,81,95,93,80
+UNC0080,autism spectrum,2,4,8,6,836268,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,172,Average,18,86,24,43,62,53,54,51,7,35,18,41,89,366,94,87,96,89
+UNC0129,autism spectrum,0,5,11,11,364612,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,153,Below Average,7,77,12,38,16,40,42,48,4,32,24,43,84,349,81,89,93,86
+UNC0196,autism spectrum,1,5,11,10,624427,YES DSM_IV questions 4a/4b is Yes,Female,HR,UNC,Active,173,Average,19,87,27,44,73,56,86,61,1,24,46,49,96,388,90,100,102,96
+UNC0230,autism spectrum,4,5,14,10,512998,YES DSM_IV questions 4a/4b is Yes,Male,,UNC,Active,88,Very Low,1,51,1,20,1,24,1,26,1,24,1,20,73,308,73,83,76,76
+UNC0246,autism spectrum,5,4,11,6,508320,YES DSM_IV questions 4a/4b is Yes,Male,,UNC,Active,111,Very Low,1,60,4,33,1,24,2,30,2,30,1,24,86,353,84,95,85,89
+PHI0006,none,0,1,3,3,769118,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,PHI,Active,173,Average,19,87,1,25,42,48,86,61,38,47,62,53,97,390,91,91,108,100
+PHI0007,none,1,2,4,3,638943,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,196,Average,45,98,54,51,16,40,54,51,58,52,62,53,101,405,107,105,90,103
+PHI0015,none,3,2,4,1,812952,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,214,Average,68,107,90,63,8,36,54,51,73,56,82,59,106,422,107,105,105,105
+PHI0023,none,1,3,6,5,430661,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,202,Average,53,101,27,44,27,44,54,51,58,52,88,62,105,416,100,109,105,102
+PHI0024,none,0,1,1,1,463809,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,173,Average,19,87,18,41,42,48,14,39,7,35,46,49,111,438,101,109,108,120
+PHI0040,none,0,1,2,2,630096,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,218,Average,73,109,42,48,27,44,7,35,82,59,96,67,94,380,100,95,96,89
+PHI0045,none,3,1,3,0,376852,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,189,Average,36,95,34,46,27,44,66,54,73,56,24,43,110,433,101,109,100,123
+PHI0047,none,1,2,3,2,972481,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Inactive,220,Average,75,110,76,57,42,48,79,58,73,56,82,59,102,407,103,109,93,102
+PHI0050,none,3,3,6,3,957420,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,PHI,Active,220,Average,75,110,66,54,42,48,27,44,73,56,88,62,103,412,102,107,90,113
+PHI0055,none,0,1,3,3,510234,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,221,Average,76,111,90,63,58,52,79,58,38,47,82,59,110,432,105,99,111,117
+PHI0058,none,3,2,5,2,618875,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,228,Average,83,114,95,66,27,44,27,44,82,59,82,59,121,471,131,109,104,127
+PHI0059,none,2,3,6,4,870658,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,PHI,Active,207,Average,59,104,27,44,58,52,14,39,58,52,82,59,108,427,97,113,100,117
+PHI0064,none,0,1,1,1,924851,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,204,Average,55,102,66,54,42,48,42,48,82,59,24,43,101,403,100,96,111,96
+PHI0068,none,0,2,5,5,811160,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,175,Average,21,88,18,41,42,48,27,44,58,52,5,34,96,388,97,100,105,86
+PHI0070,none,1,1,2,1,749359,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,253,Above Average,96,126,90,63,92,64,54,51,82,59,96,67,115,451,117,113,106,115
+PHI0077,none,1,1,2,1,490022,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,181,Average,27,91,42,48,16,40,27,44,50,50,24,43,91,372,101,89,93,89
+PHI0078,none,0,2,4,4,581931,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,215,Average,69,108,66,54,73,56,14,39,58,52,62,53,106,422,105,111,100,106
+PHI0081,none,0,1,1,1,974644,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,255,Above Average,97,127,76,57,58,52,14,39,95,66,99,80,106,421,107,107,100,107
+PHI0084,none,0,1,1,1,395301,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,208,Average,61,104,58,52,50,50,62,53,66,54,58,52,,,,,,
+PHI0088,none,1,2,5,4,330526,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,274,Very High,99,136,90,63,99,72,,,82,59,99,80,105,419,103,107,100,109
+PHI0089,none,2,2,4,2,327961,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,155,Below Average,7,78,2,30,21,42,38,47,34,46,10,37,94,381,101,91,96,93
+PHI0091,none,0,1,2,2,868281,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,231,Above Average,85,116,84,60,58,52,14,39,95,66,62,53,122,472,119,123,105,125
+PHI0093,none,1,1,1,0,350868,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,236,Above Average,89,118,86,61,79,58,73,56,76,57,84,60,105,416,107,113,93,103
+PHI0096,none,0,1,2,2,220416,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,196,Average,45,98,54,51,16,40,54,51,73,56,46,49,106,420,101,102,105,112
+PHI0098,none,3,2,5,2,988799,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,198,Average,47,99,12,38,58,52,54,51,58,52,73,56,114,445,97,117,111,120
+PHI0101,none,1,1,1,0,751872,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,203,Average,54,101,16,40,66,54,50,50,66,54,69,55,101,404,101,107,93,103
+PHI0106,none,0,1,0,0,570888,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,245,Above Average,93,122,79,58,79,58,24,43,86,61,96,68,109,431,122,109,93,107
+PHI0109,none,2,1,2,0,974665,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,192,Average,39,96,54,51,42,48,7,35,38,47,34,46,104,414,101,104,100,109
+PHI0115,none,0,1,2,2,393239,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,222,Average,77,111,42,48,73,56,27,44,73,56,88,62,101,405,100,98,102,105
+PHI0119,none,1,1,2,1,476634,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,231,Above Average,85,116,34,46,92,64,27,44,82,59,88,62,94,380,101,91,93,95
+PHI0122,none,1,2,4,3,677040,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,213,Average,67,107,73,56,66,54,1,26,54,51,58,52,107,423,103,104,114,102
+PHI0125,none,1,1,1,0,565029,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,213,Average,67,107,27,44,92,64,27,44,16,40,93,65,102,407,97,117,95,98
+PHI0126,none,0,1,1,1,190090,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,236,Above Average,89,118,73,56,79,58,24,43,76,57,93,65,114,448,101,113,114,120
+PHI0130,none,0,1,1,1,462658,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Excluded,249,Above Average,95,124,76,57,84,60,86,61,58,52,99,80,,,,,,
+PHI0136,none,2,2,5,3,215951,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,244,Above Average,93,122,98,70,42,48,66,54,82,59,96,67,110,432,117,109,104,102
+PHI0139,none,0,1,0,0,926946,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,281,Very High,99,139,90,63,99,72,99,80,98,71,99,75,118,461,119,120,102,120
+PHI0141,none,0,1,1,1,657703,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,209,Average,62,105,8,36,92,64,27,44,50,50,82,59,111,436,97,118,114,107
+PHI0142,none,2,2,4,2,955326,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,246,Above Average,94,123,84,60,84,60,,,82,59,96,67,95,386,103,98,96,89
+PHI0144,none,0,1,2,2,915717,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,225,Average,80,113,16,40,95,66,62,53,66,54,93,65,97,392,97,98,102,95
+PHI0146,none,0,1,0,0,740231,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,200,Average,50,100,34,46,8,36,27,44,73,56,88,62,106,421,97,102,117,105
+PHI0149,none,2,2,4,2,551475,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,200,Average,50,100,42,48,27,44,66,54,82,59,46,49,101,403,103,95,102,103
+PHI0151,none,2,2,5,3,339961,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,207,Average,59,104,54,51,73,56,2,30,38,47,62,53,94,383,103,96,93,91
+PHI0152,none,0,1,1,1,954491,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,233,Above Average,87,117,95,66,42,48,7,35,58,52,96,67,91,373,103,91,93,86
+PHI0153,none,0,1,1,1,550077,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,164,Below Average,12,82,34,46,16,40,7,35,16,40,12,38,94,380,103,85,96,96
+PHI0154,none,2,2,4,2,423845,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,253,Above Average,96,126,90,63,27,44,14,39,95,66,99,80,105,417,101,102,111,103
+PHI0159,none,0,1,2,2,197959,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,200,Average,50,100,27,44,27,44,92,64,73,56,73,56,103,410,110,104,100,96
+PHI0161,none,0,1,0,0,224012,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,237,Above Average,89,119,84,60,73,56,66,54,82,59,88,62,106,421,107,107,100,107
+PHI0167,none,0,1,1,1,493654,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,200,Average,50,100,84,60,42,48,2,30,58,52,16,40,93,379,97,91,96,95
+PHI0170,none,1,3,7,6,402809,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,191,Average,38,95,27,44,58,52,,,58,52,24,43,87,357,86,91,93,87
+PHI0176,none,0,1,3,3,996312,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,193,Average,41,96,34,46,84,60,,,38,47,16,40,92,375,102,93,90,90
+PHI0177,none,1,2,5,4,136360,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,205,Average,57,102,86,61,34,46,24,43,66,54,27,44,95,385,100,96,93,96
+PHI0182,none,0,1,0,0,280066,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,233,Above Average,87,117,54,51,84,60,79,58,38,47,99,75,104,413,103,98,114,98
+PHI0187,none,1,2,4,3,482642,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,PHI,Excluded,146,Below Average,4,74,8,36,27,44,,,1,20,34,46,92,374,97,96,85,96
+PHI0189,none,0,1,0,0,214027,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,226,Average,81,113,34,46,73,56,66,54,82,59,93,65,107,424,107,115,102,100
+PHI0201,none,0,1,1,1,232189,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,196,Average,45,98,38,47,34,46,62,53,54,51,58,52,109,431,113,113,96,109
+PHI0205,none,0,1,0,0,497532,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,225,Average,80,113,76,57,84,60,,,58,52,73,56,95,384,100,95,96,93
+PHI0207,none,2,2,4,2,113320,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,199,Average,49,99,66,54,27,44,79,58,90,63,12,38,102,409,107,100,100,102
+PHI0209,none,1,2,4,3,730231,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,171,Average,17,86,10,37,34,46,24,43,34,46,21,42,89,366,100,89,90,87
+PHI0212,none,0,2,5,5,692884,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,190,Average,37,95,46,49,34,46,,,54,51,27,44,85,352,89,83,85,95
+PHI0215,none,0,2,8,8,288579,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,PHI,Active,140,Below Average,3,72,1,28,8,36,42,48,1,20,73,56,94,381,90,115,84,92
+PHI0216,none,2,1,3,1,797984,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,252,Above Average,96,126,76,57,58,52,27,44,90,63,99,80,126,487,116,123,117,131
+PHI0217,none,0,2,4,4,229758,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,242,Above Average,92,121,99,73,27,44,27,44,95,66,82,59,92,375,101,89,90,95
+PHI0218,none,0,2,4,4,822865,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,257,Above Average,97,128,84,60,92,64,,,96,68,93,65,102,407,100,111,100,96
+PHI0219,none,0,1,3,3,675255,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,PHI,Active,167,Below Average,14,84,1,28,58,52,27,44,38,47,16,40,81,335,77,80,90,88
+PHI0222,none,0,1,2,2,488284,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,176,Average,21,88,18,41,8,36,,,50,50,46,49,98,396,107,100,93,96
+PHI0224,none,0,1,0,0,611199,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,226,Average,81,113,66,54,84,60,27,44,73,56,73,56,105,417,110,100,102,105
+PHI0226,none,2,1,2,0,214001,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Female,HR,PHI,Active,186,Average,32,93,1,28,34,46,14,39,76,57,69,55,95,384,94,102,93,95
+PHI0235,none,0,1,0,0,336398,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,200,Average,50,100,27,44,42,48,54,51,58,52,73,56,99,399,101,102,105,91
+PHI0239,none,0,1,0,0,690655,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,251,Above Average,95,125,98,70,50,50,38,47,86,61,98,70,119,462,119,115,114,114
+PHI0240,none,0,2,4,4,672874,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Female,HR,PHI,Active,124,Very Low,1,65,10,37,1,23,50,50,5,34,2,30,94,383,97,96,90,100
+PHI0241,none,0,1,1,1,572121,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,206,Average,58,103,8,36,73,56,,,58,52,88,62,96,389,100,100,100,89
+PHI0244,none,1,1,5,4,781819,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,199,Average,49,99,8,36,92,64,14,39,50,50,46,49,97,391,100,98,95,98
+PHI0246,none,2,2,5,3,848725,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,181,Average,27,91,18,41,16,40,66,54,38,47,62,53,123,475,113,123,126,113
+PHI0247,none,0,2,4,4,583392,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,PHI,Active,177,Average,22,89,42,48,1,20,,,38,47,88,62,99,397,97,98,100,102
+PHI0248,none,1,1,2,1,621892,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,163,Below Average,12,82,12,38,4,32,27,44,50,50,24,43,98,394,100,104,90,100
+PHI0250,none,0,1,0,0,251040,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,207,Average,59,104,66,54,8,36,,,58,52,93,65,96,389,103,98,90,98
+PHI0251,none,0,2,4,4,947923,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,271,Very High,99,135,99,75,84,60,54,51,73,56,99,80,111,436,125,109,88,114
+PHI0256,none,0,3,7,7,691501,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,229,Average,83,115,90,63,27,44,42,48,90,63,82,59,105,418,116,100,100,102
+PHI0260,none,0,1,0,0,855155,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,229,Average,83,115,54,51,42,48,7,35,90,63,96,67,101,404,100,104,102,98
+PHI0261,none,1,2,4,3,481457,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,187,Average,33,94,12,38,27,44,14,39,82,59,34,46,93,379,97,100,90,92
+PHI0262,none,3,3,6,3,447346,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,167,Below Average,14,84,42,48,58,52,2,30,1,24,24,43,91,370,84,102,93,91
+PHI0263,none,0,1,2,2,802034,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,201,Average,51,100,95,66,42,48,14,39,38,47,16,40,99,398,103,102,93,100
+PHI0264,none,0,1,0,0,510465,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,203,Average,54,101,34,46,42,48,79,58,90,63,34,46,101,405,101,102,100,102
+PHI0272,none,3,3,7,4,765425,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,166,Below Average,13,83,31,45,2,30,50,50,54,51,16,40,104,415,103,100,114,98
+PHI0274,none,0,1,0,0,963982,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,179,Average,24,90,46,49,14,39,14,39,54,51,16,40,97,391,97,96,100,98
+PHI0275,none,1,1,1,0,941589,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,197,Average,46,98,42,48,16,40,42,48,50,50,82,59,102,407,97,105,102,103
+PHI0276,none,0,1,1,1,530721,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,242,Above Average,92,121,84,60,84,60,79,58,95,66,73,56,122,474,113,111,127,123
+PHI1001,none,0,N/A,4,4,502800,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,214,Average,68,107,76,57,42,48,42,48,95,66,24,43,122,472,121,113,113,125
+PHI1005,none,0,1,1,1,974562,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,172,Average,18,86,34,46,27,44,,,50,50,4,32,101,403,94,109,102,98
+PHI1009,none,2,2,4,2,365557,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,207,Average,59,104,86,61,21,42,50,50,76,57,38,47,108,426,109,115,104,98
+PHI1010,none,0,1,1,1,820707,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,215,Average,69,108,84,60,16,40,14,39,95,66,46,49,112,441,110,111,102,118
+PHI1013,none,0,2,5,5,898271,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,191,Average,38,95,66,54,27,44,42,48,38,47,34,46,126,485,116,127,120,122
+PHI1018,none,0,1,0,0,806356,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,182,Average,28,91,34,46,16,40,7,35,50,50,34,46,94,383,87,96,104,96
+PHI1020,none,1,3,7,6,816236,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,214,Average,68,107,54,51,42,48,54,51,82,59,73,56,85,352,94,88,78,92
+PHI1021,none,1,1,3,2,736979,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,202,Average,53,101,18,41,73,56,79,58,73,56,46,49,98,394,86,105,114,89
+PHI1024,none,1,1,2,1,573010,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,210,Average,63,105,18,41,92,64,54,51,73,56,46,49,114,448,107,118,120,103
+PHI1026,none,1,2,4,3,830543,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,204,Average,55,102,58,52,66,54,62,53,66,54,27,44,95,385,101,96,102,86
+PHI1029,none,0,1,0,0,381432,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,184,Average,30,92,16,40,34,46,50,50,54,51,38,47,104,413,97,107,100,109
+PHI1030,none,1,2,5,4,673832,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,188,Average,34,94,58,52,34,46,24,43,42,48,21,42,100,401,103,98,100,100
+PHI1031,none,0,1,1,1,728624,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,199,Average,49,99,76,57,27,44,66,54,58,52,34,46,105,418,103,113,100,102
+PHI1032,none,0,2,4,4,261279,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,222,Average,77,111,38,47,95,66,24,43,54,51,79,58,88,363,101,82,102,78
+PHI1037,none,1,1,6,5,490127,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,,,,,,,42,48,42,48,,,46,49,91,373,91,93,96,93
+PHI1038,none,2,3,7,5,986661,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,173,Average,19,87,27,44,8,36,27,44,50,50,24,43,101,403,94,107,100,102
+PHI1046,none,0,1,0,0,273365,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,200,Average,50,100,18,41,73,56,27,44,50,50,62,53,120,467,107,123,114,123
+PHI1049,none,0,1,1,1,391404,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,195,Average,43,97,21,42,21,42,96,67,54,51,84,60,99,399,101,102,100,96
+PHI1050,none,0,3,6,6,371545,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,PHI,Active,247,Above Average,94,123,96,68,84,60,27,44,90,63,73,56,104,415,110,105,100,100
+PHI1051,none,0,1,1,1,160908,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,220,Average,75,110,66,54,58,52,54,51,96,68,34,46,105,416,103,113,105,95
+PHI1052,none,0,1,0,0,774024,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,238,Above Average,90,119,66,54,73,56,42,48,90,63,93,65,111,438,103,115,111,109
+PHI1053,none,1,1,2,1,281858,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,211,Average,64,106,58,52,79,58,50,50,66,54,38,47,,,,,,
+PHI1056,none,0,1,3,3,636689,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Male,LR,PHI,Active,160,Below Average,10,81,27,44,58,52,66,54,2,30,5,34,91,371,86,96,96,93
+PHI1058,none,0,,6,6,750055,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,226,Average,81,113,84,60,42,48,66,54,82,59,82,59,105,419,101,104,111,103
+PHI1059,none,0,1,2,2,341832,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,224,Average,79,112,73,56,88,62,62,53,66,54,58,52,,,,,,
+PHI1060,none,0,1,0,0,895607,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,PHI,Active,212,Average,66,106,12,38,73,56,42,48,82,59,82,59,98,395,100,104,96,95
+PHI1064,none,0,1,1,1,300333,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,232,Above Average,86,116,92,64,88,62,96,67,66,54,58,52,114,446,113,107,108,118
+PHI1065,none,2,3,6,4,566276,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,PHI,Active,223,Average,78,112,76,57,42,48,66,54,82,59,82,59,101,403,110,100,102,91
+PHI1066,none,1,2,5,4,830443,YES DSM_IV questions 4a/4b is Yes,Male,HR,PHI,Active,192,Average,39,96,42,48,42,48,54,51,50,50,34,46,107,425,100,113,108,104
+PHI1067,none,1,1,2,1,643734,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,183,Average,29,92,42,48,8,36,27,44,50,50,46,49,114,446,105,113,111,117
+PHI1068,none,0,1,1,1,176766,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,PHI,Active,271,Very High,99,135,99,75,84,60,86,61,98,71,93,65,126,485,117,121,122,125
+PHI1071,none,0,1,1,1,304981,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,PHI,Active,247,Above Average,94,123,76,57,84,60,27,44,90,63,96,67,104,414,103,98,111,102
+PHI1074,none,2,1,3,1,713586,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Male,HR,PHI,Active,160,Below Average,10,81,58,52,2,30,2,30,42,48,2,30,95,385,102,98,95,90
+PHI1077,none,0,1,3,3,366315,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,PHI,Active,229,Average,83,115,99,73,27,44,79,58,73,56,73,56,95,386,97,91,104,94
+SEA0002,none,3,2,4,1,873371,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Complete,193,Average,41,96,34,46,42,48,27,44,50,50,46,49,96,389,100,100,93,96
+SEA0004,none,1,1,1,0,659752,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Complete,201,Average,51,100,27,44,42,48,79,58,73,56,62,53,96,387,100,95,96,96
+SEA0005,none,2,3,7,5,641247,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Complete,224,Average,79,112,76,57,58,52,42,48,82,59,73,56,102,408,107,96,100,105
+SEA0007,none,0,1,2,2,337032,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,213,Average,67,107,27,44,84,60,66,54,73,56,62,53,115,450,113,115,117,105
+SEA0012,none,2,3,6,4,320613,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Complete,222,Average,77,111,66,54,84,60,66,54,82,59,46,49,108,426,107,109,105,105
+SEA0014,none,3,2,4,1,323623,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,210,Average,63,105,8,36,84,60,66,54,58,52,88,62,94,382,91,102,102,87
+SEA0016,none,1,1,2,1,726000,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,195,Average,43,97,34,46,73,56,66,54,27,44,46,49,92,376,101,96,88,91
+SEA0018,none,1,1,2,1,859112,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,249,Above Average,95,124,66,54,73,56,54,51,99,74,93,65,100,401,101,102,100,98
+SEA0029,none,1,1,4,3,898932,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Female,HR,SEA,Active,165,Below Average,13,83,1,20,16,40,14,39,58,52,62,53,94,382,84,100,105,93
+SEA0030,none,0,1,0,0,350013,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,213,Average,67,107,62,53,31,45,66,54,38,47,96,68,-999,-99,-99,109,105,111
+SEA0032,none,0,1,2,2,269738,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,193,Average,41,96,7,35,34,46,62,53,66,54,79,58,118,459,119,111,124,105
+SEA0036,none,0,1,1,1,613004,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,232,Above Average,86,116,79,58,66,54,24,43,76,57,90,63,106,421,97,111,117,96
+SEA0041,none,0,2,5,5,865528,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,192,Average,39,96,12,38,42,48,66,54,38,47,82,59,96,389,94,98,102,95
+SEA0050,none,0,3,7,7,308828,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,LR,SEA,Active,201,Average,51,100,54,51,73,56,95,66,62,53,18,41,-999,-99,-99,115,102,102
+SEA0060,none,1,3,6,5,663048,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,SEA,Active,212,Average,66,106,34,46,42,48,86,61,82,59,82,59,106,421,101,120,102,98
+SEA0062,none,1,1,1,0,872121,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,218,Average,73,109,66,54,58,52,42,48,95,66,34,46,109,429,107,105,114,103
+SEA0065,none,1,1,1,0,619518,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,152,Below Average,6,77,18,41,8,36,42,48,4,32,24,43,100,400,97,109,90,104
+SEA0067,none,0,1,1,1,703739,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,144,Below Average,4,73,7,35,7,35,62,53,5,34,16,40,95,386,91,104,100,91
+SEA0068,none,0,3,6,6,550654,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Active,183,Average,29,92,12,38,27,44,86,61,58,52,46,49,94,381,91,95,108,87
+SEA0074,none,2,2,5,3,357084,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,215,Average,69,108,21,42,54,51,21,42,34,46,99,76,100,401,101,107,88,105
+SEA0077,none,0,1,1,1,670463,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,170,Average,16,85,34,46,58,52,7,35,4,32,16,40,99,397,97,102,100,98
+SEA0078,none,0,1,1,1,581471,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,250,Above Average,95,125,42,48,92,64,27,44,96,68,98,70,98,396,101,100,100,95
+SEA0079,none,0,1,3,3,232791,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,198,Average,47,99,18,41,58,52,66,54,58,52,62,53,105,418,105,107,106,100
+SEA0092,none,0,2,4,4,828935,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,214,Average,68,107,54,51,84,60,42,48,38,47,73,56,105,417,102,111,104,100
+SEA0102,none,0,1,1,1,114640,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,207,Average,59,104,34,46,58,52,54,51,50,50,82,59,101,403,107,100,96,100
+SEA0103,none,0,1,1,1,134857,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,176,Average,21,88,21,42,34,46,38,47,34,46,21,42,105,417,101,109,105,102
+SEA0106,none,0,1,1,1,465514,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,195,Average,43,97,34,46,27,44,27,44,82,59,34,46,98,394,102,98,90,104
+SEA0108,none,0,1,1,1,519668,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,183,Average,29,92,31,45,21,42,14,39,66,54,21,42,101,404,100,104,93,107
+SEA0110,none,0,1,2,2,833557,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,179,Average,24,90,12,38,8,36,66,54,73,56,46,49,0,0,0,0,0,0
+SEA0111,none,0,2,3,3,862074,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,284,Very High,99,141,98,70,99,73,95,66,96,67,99,74,102,409,116,98,102,93
+SEA0112,none,0,2,4,4,662147,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,216,Average,70,108,42,48,73,56,27,44,73,56,73,56,102,408,102,104,102,100
+SEA0117,none,0,1,3,3,243336,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Inactive,190,Average,37,95,24,43,42,48,5,34,62,53,34,46,,,,,,
+SEA0118,none,0,1,0,0,751081,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Inactive,223,Average,78,112,66,54,84,60,66,54,50,50,82,59,99,398,100,100,100,98
+SEA0119,none,1,1,2,1,656320,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,252,Above Average,96,126,96,68,79,58,73,56,86,61,93,65,107,423,116,105,93,109
+SEA0120,none,2,2,4,2,776145,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,185,Average,31,93,79,58,14,39,50,50,42,48,16,40,102,409,107,109,93,100
+SEA0121,none,0,2,5,5,768217,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,177,Average,22,89,2,30,42,48,46,49,62,53,34,46,95,384,94,96,96,98
+SEA0122,none,0,N/A,3,3,920912,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,211,Average,64,106,34,46,27,44,54,51,82,59,88,62,103,410,102,121,95,92
+SEA0123,none,0,1,2,2,216938,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,208,Average,61,104,34,46,84,60,7,35,73,56,34,46,111,438,109,113,106,110
+SEA0124,none,1,1,1,0,533799,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,220,Average,75,110,46,49,21,42,24,43,86,61,96,68,91,372,97,100,82,93
+SEA0125,none,1,3,6,5,972701,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,SEA,Active,192,Average,39,96,58,52,21,42,38,47,34,46,58,52,110,434,122,105,111,96
+SEA0130,none,0,2,4,4,560969,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,178,Average,23,89,12,38,27,44,27,44,50,50,34,46,100,401,97,104,100,100
+SEA0132,none,0,1,1,1,802278,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Male,HR,SEA,Active,144,Below Average,4,73,2,30,21,42,14,39,2,30,21,42,94,380,86,85,111,98
+SEA0137,none,0,1,2,2,187985,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,217,Average,72,109,42,48,58,52,42,48,58,52,93,65,94,380,97,93,90,100
+SEA0142,none,2,3,6,4,476400,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,SEA,Active,180,Average,25,90,1,28,92,64,34,46,21,42,34,46,90,367,91,98,85,93
+SEA0143,none,0,1,0,0,883733,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,166,Below Average,13,83,16,40,7,35,14,39,54,51,16,40,91,370,94,95,90,91
+SEA0144,none,2,2,3,1,709530,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,228,Average,83,114,79,58,50,50,14,39,76,57,90,63,105,417,116,105,100,96
+SEA0145,none,0,3,6,6,237123,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Active,187,Average,33,94,12,38,42,48,27,44,58,52,46,49,100,402,105,99,102,96
+SEA0147,none,0,2,4,4,831855,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,265,Very High,98,132,98,70,92,64,27,44,95,66,93,65,75,314,110,56,43,105
+SEA0148,none,3,3,7,4,783552,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Active,153,Below Average,7,77,12,38,42,48,14,39,1,24,24,43,91,370,91,96,88,95
+SEA0150,none,1,2,5,4,830319,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,152,Below Average,6,77,12,38,8,36,42,48,12,38,16,40,84,348,84,83,95,86
+SEA0151,none,0,1,1,1,660372,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,175,Average,21,88,27,44,27,44,27,44,27,44,24,43,103,410,103,102,102,103
+SEA0152,none,0,2,5,5,472857,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,190,Average,37,95,27,44,27,44,42,48,73,56,34,46,99,398,100,104,100,94
+SEA0153,none,0,2,4,4,508146,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,223,Average,78,112,66,54,92,64,79,58,73,56,46,49,112,441,113,113,102,113
+SEA0154,none,0,1,0,0,704921,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,226,Average,81,113,96,68,58,52,42,48,90,63,24,43,109,430,117,109,100,104
+SEA0157,none,0,1,4,4,639930,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,LR,SEA,Active,166,Below Average,13,83,1,20,42,48,14,39,58,52,34,46,100,400,94,102,108,96
+SEA0158,none,0,1,1,1,699209,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,269,Very High,99,134,90,63,96,68,66,54,90,63,99,75,102,407,107,107,100,93
+SEA0160,none,2,3,10,8,170538,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Active,215,Average,69,108,27,44,73,56,54,51,82,59,73,56,95,385,100,99,84,102
+SEA0161,none,1,1,2,1,767411,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,214,Average,68,107,46,49,34,46,90,63,66,54,93,65,99,398,101,105,96,96
+SEA0162,none,0,1,1,1,636402,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,216,Average,70,108,34,46,58,52,42,48,73,56,88,62,96,388,100,102,90,96
+SEA0165,none,0,1,1,1,942335,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,188,Average,34,94,38,47,34,46,24,43,54,51,27,44,103,412,105,111,90,106
+SEA0177,none,1,1,2,1,257424,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,269,Very High,99,134,96,68,96,68,66,54,95,66,96,67,103,412,113,109,90,100
+SEA0179,none,0,1,0,0,799490,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,243,Above Average,92,122,54,51,92,64,96,68,95,66,88,62,105,417,109,109,95,104
+SEA0183,none,0,1,0,0,728124,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,242,Above Average,92,121,76,57,92,64,86,61,73,56,93,65,101,403,100,105,100,98
+SEA0184,none,1,1,3,2,564733,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,183,Average,29,92,34,46,27,44,54,51,27,44,46,49,105,419,102,115,100,102
+SEA0186,none,0,1,1,1,490324,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,259,Above Average,97,129,76,57,99,72,79,58,96,68,88,62,115,450,109,117,111,113
+SEA0193,none,0,1,0,0,808534,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,191,Average,38,95,16,40,24,43,1,28,34,46,88,62,87,359,94,95,77,93
+SEA0195,none,0,1,2,2,633804,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,202,Average,53,101,27,44,58,52,92,64,38,47,82,59,105,417,94,111,104,108
+SEA0196,none,0,2,4,4,483143,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,228,Average,83,114,34,46,84,60,86,61,90,63,82,59,100,401,105,107,95,94
+SEA0197,none,0,1,1,1,454870,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,209,Average,62,105,18,41,84,60,54,51,58,52,73,56,114,446,109,113,122,102
+SEA0201,none,2,1,3,1,927475,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,235,Above Average,88,118,66,54,84,60,86,61,73,56,93,65,103,412,100,104,102,106
+SEA0211,none,0,1,0,0,381101,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,228,Average,83,114,54,51,73,56,79,58,73,56,93,65,111,438,117,111,100,110
+SEA0214,none,0,3,6,6,514711,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,SEA,Active,240,Above Average,91,120,90,63,58,52,27,44,95,66,82,59,117,457,121,115,102,119
+SEA0215,none,1,1,3,2,456650,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,227,Average,82,114,27,44,92,64,79,58,90,63,73,56,106,421,101,105,108,107
+SEA0221,none,0,1,2,2,760697,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,224,Average,79,112,42,48,42,48,54,51,90,63,93,65,105,418,103,104,100,111
+SEA0222,none,0,1,2,2,960572,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,276,Very High,99,137,95,66,92,64,27,44,95,66,99,80,115,451,109,123,102,117
+SEA0225,none,3,3,10,7,603076,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,166,Below Average,13,83,4,33,27,44,27,44,16,40,46,49,99,399,100,99,100,100
+SEA0233,none,0,1,2,2,931845,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,275,Very High,99,137,98,70,92,64,79,58,99,74,96,67,116,452,122,109,105,116
+SEA0237,none,2,1,3,1,428973,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,169,Average,16,85,18,41,16,40,27,44,50,50,12,38,96,388,109,100,81,98
+SEA0238,none,1,1,2,1,301941,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,186,Average,32,93,27,44,73,56,79,58,16,40,34,46,88,363,89,95,93,86
+SEA0245,none,0,1,0,0,511104,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,207,Average,59,104,34,46,58,52,54,51,73,56,62,53,112,440,113,105,108,114
+SEA0246,none,2,3,6,4,210295,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,SEA,Active,192,Average,39,96,27,44,42,48,42,48,38,47,62,53,97,392,94,104,96,98
+SEA0247,none,1,1,3,2,346973,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,243,Above Average,92,122,90,63,92,64,79,58,90,63,62,53,102,408,109,104,95,100
+SEA0250,none,2,2,4,2,755016,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,207,Average,59,104,27,44,84,60,27,44,50,50,62,53,,,,,,
+SEA0251,none,0,2,4,4,921629,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,190,Average,37,95,7,35,66,54,38,47,66,54,38,47,93,378,94,100,93,91
+SEA0257,none,0,2,4,4,510700,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,196,Average,45,98,34,46,58,52,42,48,58,52,34,46,94,381,97,93,93,98
+SEA0258,none,0,1,3,3,186588,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,240,Above Average,91,120,18,41,96,68,54,51,95,66,93,65,105,418,107,100,102,109
+SEA0262,none,0,1,0,0,505608,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,SEA,Active,158,Below Average,9,80,1,20,66,54,,,4,32,58,52,83,345,81,96,90,78
+SEA1000,none,2,1,2,0,788658,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,205,Average,57,102,54,51,58,52,42,48,73,56,34,46,114,447,107,109,120,111
+SEA1006,none,2,3,7,5,108131,YES DSM_IV questions 4a/4b is Yes,Male,HR,SEA,Active,186,Average,32,93,31,45,21,42,5,34,76,57,21,42,91,372,100,100,88,84
+SEA1012,none,0,1,1,1,360421,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,216,Average,70,108,34,46,73,56,66,54,58,52,88,62,107,425,116,98,111,100
+SEA1017,none,2,3,10,8,185584,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,LR,SEA,Active,121,Very Low,1,64,1,26,5,34,46,49,1,20,18,41,99,399,84,102,111,102
+SEA1018,none,0,1,1,1,783727,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,231,Above Average,85,116,86,61,34,46,62,53,86,61,90,63,104,414,110,105,96,103
+SEA1019,none,1,1,2,1,167799,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,249,Above Average,95,124,54,51,96,68,92,64,90,63,96,67,108,427,103,109,117,98
+SEA1020,none,1,1,2,1,581398,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,193,Average,41,96,16,40,50,50,38,47,42,48,69,55,109,431,100,109,108,114
+SEA1022,none,0,2,4,4,235125,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,196,Average,45,98,31,45,14,39,62,53,66,54,79,58,114,445,107,107,117,114
+SEA1026,none,1,1,1,0,693900,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,220,Average,75,110,34,46,58,52,42,48,90,63,82,59,106,420,117,99,100,104
+SEA1027,none,1,3,7,6,595131,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,SEA,Active,197,Average,46,98,27,44,42,48,42,48,73,56,46,49,103,410,107,105,96,102
+SEA1030,none,0,2,5,5,890208,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,204,Average,55,102,4,33,73,56,42,48,73,56,82,59,94,380,100,93,96,91
+SEA1031,none,1,2,4,3,636881,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,179,Average,24,90,34,46,16,40,14,39,27,44,46,49,111,436,103,117,105,111
+SEA1032,none,0,1,1,1,501340,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,231,Above Average,85,116,46,49,79,58,38,47,86,61,90,63,109,430,113,115,102,100
+SEA1034,none,2,1,6,4,777086,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,SEA,Active,127,Very Low,1,66,1,28,2,29,34,46,3,31,14,39,83,345,84,87,85,89
+SEA1036,none,0,1,3,3,374760,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,199,Average,49,99,42,48,31,45,54,51,62,53,62,53,110,433,110,113,105,105
+SEA1039,none,0,1,3,3,513748,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,287,Very High,99,142,98,70,84,60,54,51,99,77,99,80,0,0,0,0,0,0
+SEA1041,none,2,3,7,5,336039,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,SEA,Active,249,Above Average,95,124,90,63,66,54,31,45,96,68,92,64,,,,,,
+SEA1043,none,1,3,6,5,162820,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,SEA,Active,245,Above Average,93,122,84,60,58,52,54,51,96,68,93,65,,,,,,
+SEA1047,none,0,1,1,1,982380,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Female,HR,SEA,Active,134,Very Low,2,69,8,36,16,40,54,51,1,20,12,38,,,,,,
+SEA1048,none,0,1,0,0,132594,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,182,Average,28,91,31,45,34,46,50,50,54,51,16,40,,,,,,
+SEA1050,none,4,3,9,5,124486,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,SEA,Active,180,Average,25,90,12,38,58,52,54,51,38,47,24,43,,,,,,
+SEA1052,none,0,1,3,3,891530,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,SEA,Active,215,Average,69,108,84,60,73,56,86,61,73,56,24,43,,,,,,
+SEA1057,none,2,1,5,3,685724,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Female,HR,SEA,Active,182,Average,28,91,1,25,58,52,66,54,58,52,62,53,,,,,,
+SEA1058,none,0,1,1,1,660345,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,257,Above Average,97,128,73,56,97,69,66,54,76,57,99,75,,,,,,
+SEA1059,none,0,1,0,0,497785,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,SEA,Active,166,Below Average,13,83,18,41,5,34,24,43,50,50,18,41,,,,,,
+SEA1060,none,2,1,3,1,495128,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,SEA,Active,196,Average,45,98,18,41,27,44,42,48,58,52,82,59,,,,,,
+STL0000,none,3,3,6,3,480564,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,223,Average,78,112,76,57,27,44,86,61,90,63,82,59,107,423,103,104,100,116
+STL0002,none,1,1,1,0,680028,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,199,Average,49,99,42,48,16,40,79,58,58,52,82,59,117,457,113,102,120,122
+STL0004,none,0,1,2,2,961753,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,171,Average,17,86,42,48,16,40,99,77,16,40,24,43,109,431,103,117,108,103
+STL0005,none,0,N/A,1,1,136345,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,197,Average,46,98,84,60,16,40,27,44,82,59,12,38,105,418,103,96,105,114
+STL0006,none,1,3,7,6,856269,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Complete,191,Average,38,95,18,41,84,60,14,39,50,50,16,40,107,423,100,104,100,119
+STL0009,none,1,1,1,0,693153,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,228,Average,83,114,66,54,42,48,92,64,73,56,98,70,102,408,101,100,100,107
+STL0010,none,0,1,1,1,141335,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,236,Above Average,89,118,66,54,84,60,66,54,90,63,82,59,106,420,103,107,108,102
+STL0013,none,0,1,2,2,658909,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,193,Average,41,96,12,38,16,40,2,30,82,59,73,56,109,431,101,107,105,118
+STL0016,none,1,3,6,5,961051,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Complete,210,Average,63,105,42,48,73,56,42,48,50,50,73,56,91,372,94,93,90,95
+STL0017,none,0,3,6,6,121007,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Complete,206,Average,58,103,27,44,92,64,54,51,58,52,34,46,100,402,101,105,93,103
+STL0022,none,0,1,0,0,721965,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,222,Average,77,111,42,48,42,48,66,54,82,59,96,67,99,398,103,100,102,93
+STL0023,none,0,1,1,1,303247,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,253,Above Average,96,126,84,60,96,68,86,61,90,63,88,62,112,439,119,104,100,116
+STL0025,none,1,1,2,1,385291,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,226,Average,81,113,42,48,92,64,1,20,58,52,88,62,99,399,101,100,96,102
+STL0029,none,0,1,0,0,360222,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,193,Average,41,96,8,36,8,36,66,54,82,59,88,62,,,,,,
+STL0030,none,1,1,3,2,859030,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,174,Average,20,87,34,46,4,32,27,44,50,50,34,46,91,372,94,91,96,91
+STL0032,none,1,1,2,1,931663,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,249,Above Average,95,124,84,60,92,64,54,51,90,63,88,62,152,587,153,142,143,149
+STL0034,none,3,3,6,3,866415,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,214,Average,68,107,66,54,42,48,54,51,82,59,62,53,120,467,122,115,105,125
+STL0038,none,1,1,1,0,822794,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,205,Average,57,102,42,48,42,48,79,58,73,56,62,53,104,415,103,104,105,103
+STL0044,none,1,1,1,0,239554,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,220,Average,75,110,66,54,42,48,42,48,73,56,88,62,105,417,110,102,100,105
+STL0045,none,0,1,0,0,908962,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,242,Above Average,92,121,76,57,92,64,66,54,82,59,88,62,111,438,103,111,102,122
+STL0048,none,1,1,2,1,810313,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,199,Average,49,99,34,46,73,56,14,39,27,44,62,53,94,382,91,93,102,96
+STL0049,none,0,1,3,3,718312,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,238,Above Average,90,119,84,60,42,48,99,72,90,63,96,67,101,404,103,107,96,98
+STL0051,none,0,2,4,4,726790,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,212,Average,66,106,34,46,84,60,42,48,90,63,24,43,100,402,101,98,105,98
+STL0054,none,1,1,2,1,548690,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,250,Above Average,95,125,76,57,92,64,79,58,82,59,98,70,104,414,107,111,96,100
+STL0057,none,0,1,2,2,130523,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,169,Average,16,85,12,38,4,32,42,48,50,50,46,49,96,389,91,105,90,103
+STL0061,none,1,3,6,5,231287,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Complete,171,Average,17,86,34,46,4,32,42,48,82,59,5,34,105,419,103,107,102,107
+STL0063,none,1,1,3,2,501347,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,STL,Complete,143,Below Average,4,73,18,41,42,48,86,61,1,20,5,34,88,361,89,80,105,87
+STL0064,none,0,3,10,10,456823,YES DSM_IV questions 4a/4b is Yes,Male,HR,STL,Complete,122,Very Low,1,64,1,20,8,36,42,48,1,20,34,46,110,435,100,113,117,105
+STL0070,none,0,2,5,5,189601,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,227,Average,82,114,66,54,73,56,96,68,58,52,93,65,106,422,107,107,96,112
+STL0077,none,0,1,0,0,967950,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,231,Above Average,85,116,66,54,73,56,42,48,82,59,88,62,114,445,109,117,102,117
+STL0079,none,0,1,3,3,842426,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Complete,208,Average,61,104,42,48,58,52,27,44,58,52,73,56,115,450,103,117,114,116
+STL0080,none,0,1,0,0,942002,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,STL,Complete,145,Below Average,4,74,34,46,1,24,14,39,4,32,24,43,95,384,97,95,96,96
+STL0081,none,0,1,0,0,462426,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,216,Average,70,108,42,48,73,56,14,39,50,50,88,62,101,404,100,98,108,98
+STL0084,none,0,1,3,3,185404,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,228,Average,83,114,54,51,96,68,86,61,38,47,88,62,104,413,107,98,105,103
+STL0085,none,0,1,0,0,118969,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,280,Very High,99,139,99,76,50,50,62,53,99,74,99,80,102,407,116,95,85,111
+STL0091,none,0,1,1,1,650503,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,215,Average,69,108,54,51,58,52,79,58,73,56,73,56,105,417,107,105,105,100
+STL0093,none,0,1,1,1,347302,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,182,Average,28,91,31,45,14,39,50,50,54,51,38,47,110,435,128,102,96,109
+STL0097,none,0,1,1,1,131614,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,194,Average,42,97,27,44,58,52,7,35,58,52,34,46,89,365,97,85,90,93
+STL0107,none,0,1,3,3,618672,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,165,Below Average,13,83,42,48,42,48,27,44,7,35,5,34,105,417,110,104,96,107
+STL0109,none,1,1,1,0,889945,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,210,Average,63,105,79,58,66,54,50,50,66,54,27,44,104,415,107,100,96,112
+STL0111,none,0,1,3,3,218185,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,201,Average,51,100,66,54,42,48,79,58,50,50,46,49,102,407,101,98,108,100
+STL0112,none,0,1,3,3,161246,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Female,HR,STL,Complete,153,Below Average,7,77,27,44,16,40,2,30,1,20,46,49,103,412,100,111,95,106
+STL0116,none,1,N/A,2,1,150649,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Complete,231,Above Average,85,116,90,63,73,56,86,61,82,59,62,53,115,451,121,109,106,115
+STL0118,none,0,1,3,3,223443,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,199,Average,49,99,84,60,16,40,7,35,73,56,24,43,92,374,102,91,81,100
+STL0128,none,0,1,2,2,770655,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,189,Average,36,95,31,45,34,46,24,43,66,54,27,44,89,366,97,85,88,96
+STL0129,none,1,1,1,0,191896,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,162,Below Average,11,82,18,41,16,40,14,39,38,47,5,34,80,332,79,82,82,89
+STL0132,none,0,1,1,1,436524,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,209,Average,62,105,8,36,58,52,27,44,82,59,88,62,90,369,94,91,93,91
+STL0138,none,0,1,2,2,328818,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,222,Average,77,111,84,60,27,44,66,54,82,59,82,59,93,377,101,95,88,93
+STL0140,none,1,1,2,1,600902,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,182,Average,28,91,2,30,73,56,79,58,50,50,34,46,97,390,89,98,100,103
+STL0144,none,0,1,1,1,886482,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Male,HR,STL,Complete,168,Below Average,15,84,4,33,58,52,42,48,2,30,62,53,92,376,89,96,100,91
+STL0149,none,0,1,3,3,222770,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,177,Average,22,89,42,48,8,36,27,44,50,50,24,43,104,413,101,105,105,102
+STL0150,none,0,1,1,1,339429,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,158,Below Average,9,80,10,37,7,35,14,39,34,46,16,40,102,409,103,89,114,103
+STL0152,none,1,2,4,3,981407,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,214,Average,68,107,76,57,58,52,79,58,73,56,46,49,107,425,113,100,102,110
+STL0159,none,2,3,7,5,684945,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,141,Below Average,3,72,7,35,7,35,38,47,42,48,1,23,94,382,91,98,100,93
+STL0163,none,4,2,5,1,729108,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,225,Average,80,113,95,66,27,44,27,44,95,66,46,49,94,381,103,98,93,87
+STL0167,none,1,2,4,3,705477,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,220,Average,75,110,84,60,42,48,27,44,90,63,46,49,100,401,116,87,93,105
+STL0168,none,3,1,3,0,247315,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,211,Average,64,106,66,54,16,40,86,61,58,52,93,65,100,402,107,96,90,109
+STL0173,none,0,1,0,0,867898,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Complete,257,Above Average,97,128,66,54,99,72,96,68,95,66,93,65,107,424,110,104,105,105
+STL0174,none,1,1,1,0,574458,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,228,Average,83,114,84,60,73,56,42,48,73,56,73,56,95,384,103,89,90,102
+STL0178,none,2,1,5,3,549587,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,HR,STL,Complete,132,Very Low,2,68,1,28,27,44,66,54,1,20,16,40,83,344,74,89,90,91
+STL0181,none,1,1,1,0,918233,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,248,Above Average,94,124,66,54,73,56,42,48,96,68,98,70,98,396,107,87,100,102
+STL0183,none,1,3,6,5,796006,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,190,Average,37,95,12,38,73,56,66,54,50,50,34,46,105,417,97,111,100,109
+STL0187,none,1,1,1,0,341870,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,267,Very High,99,133,84,60,92,64,66,54,96,68,99,75,107,425,113,100,105,107
+STL0188,none,0,1,1,1,103430,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,200,Average,50,100,58,52,50,50,84,60,34,46,58,52,112,440,113,102,114,111
+STL0192,none,0,1,0,0,902465,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,210,Average,63,105,54,51,73,56,66,54,90,63,16,40,105,417,110,100,102,105
+STL0195,none,1,1,3,2,536109,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,226,Average,81,113,54,51,84,60,79,58,82,59,73,56,110,433,105,109,106,113
+STL0198,none,1,1,2,1,763676,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,213,Average,67,107,58,52,79,58,50,50,54,51,58,52,94,380,94,93,88,105
+STL0213,none,3,3,6,3,204948,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Complete,178,Average,23,89,12,38,27,44,79,58,50,50,34,46,90,369,97,89,96,87
+STL0217,none,0,1,0,0,807284,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,188,Average,34,94,21,42,50,50,24,43,66,54,21,42,107,423,113,96,102,112
+STL0218,none,1,1,2,1,950017,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,167,Below Average,14,84,16,40,14,39,24,43,42,48,16,40,102,407,101,102,102,102
+STL0226,none,0,1,0,0,168350,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Complete,210,Average,63,105,34,46,73,56,27,44,82,59,46,49,103,410,107,100,100,103
+STL0228,none,0,1,2,2,876501,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,194,Average,42,97,42,48,42,48,96,68,58,52,34,46,97,393,103,95,100,95
+STL0234,none,0,1,0,0,171870,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Complete,261,Very High,98,130,90,63,84,60,96,68,96,68,98,70,120,465,122,109,114,120
+STL0236,none,1,1,2,1,605018,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,214,Average,68,107,66,54,58,52,54,51,82,59,46,49,110,433,107,111,108,107
+STL0241,none,1,1,1,0,268221,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,206,Average,58,103,42,48,73,56,42,48,73,56,34,46,97,392,101,100,96,95
+STL0243,none,0,1,1,1,378901,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,194,Average,42,97,27,44,42,48,14,39,73,56,34,46,101,403,100,99,108,96
+STL0248,none,0,1,1,1,598710,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,242,Above Average,92,121,42,48,92,64,42,48,90,63,96,67,107,424,101,105,111,107
+STL0249,none,0,3,6,6,995004,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,HR,STL,Complete,175,Average,21,88,21,42,38,47,50,50,34,46,16,40,,,,,,
+STL0250,none,0,3,6,6,185214,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,LR,STL,Complete,185,Average,31,93,46,49,50,50,50,50,34,46,16,40,98,396,116,91,93,96
+STL0252,none,0,1,2,2,711917,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,196,Average,45,98,34,46,73,56,79,58,73,56,12,38,120,466,102,117,106,141
+STL0257,none,0,3,6,6,180215,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,STL,Complete,194,Average,42,97,42,48,58,52,54,51,73,56,12,38,115,449,102,121,111,115
+STL0258,none,0,1,0,0,972585,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,200,Average,50,100,42,48,27,44,14,39,82,59,46,49,123,475,122,120,108,125
+STL0261,none,0,2,4,4,755073,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Complete,185,Average,31,93,18,41,27,44,42,48,38,47,62,53,117,456,110,117,117,112
+STL0263,none,0,1,0,0,364403,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,209,Average,62,105,18,41,73,56,86,61,82,59,62,53,117,457,105,117,129,106
+STL0265,none,1,3,7,6,556563,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,STL,Complete,200,Average,50,100,34,46,42,48,27,44,38,47,82,59,101,406,97,102,93,114
+STL0271,none,0,1,2,2,162756,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,193,Average,41,96,10,37,50,50,2,30,54,51,69,55,116,453,107,118,114,114
+STL0272,none,0,1,3,3,295589,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Complete,224,Average,79,112,76,57,58,52,79,58,82,59,73,56,109,431,116,95,108,112
+STL0275,none,0,3,6,6,183970,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Complete,141,Below Average,3,72,2,30,27,44,2,30,1,27,16,40,108,428,103,109,102,114
+STL0279,none,2,1,6,4,608482,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Male,,STL,Active,144,Below Average,4,73,8,36,4,32,1,20,27,44,4,32,84,347,97,83,69,98
+STL0282,none,0,1,1,1,965421,NO DSM_IV questions 4a/4b is no and not atypical ,Male,,STL,Active,204,Average,55,102,66,54,42,48,27,44,82,59,24,43,108,426,107,104,108,107
+STL0290,none,0,1,0,0,513330,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Male,HR,STL,Complete,140,Below Average,3,72,2,30,16,40,54,51,2,30,16,40,81,337,84,95,82,76
+STL0299,none,1,2,7,6,315149,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,,STL,Active,113,Very Low,1,61,4,33,1,24,27,44,1,24,4,32,,,,,,
+STL0304,none,2,2,5,3,879873,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,211,Average,64,106,42,48,42,48,79,58,82,59,73,56,111,438,100,111,102,125
+STL0305,none,0,1,1,1,773722,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,213,Average,67,107,54,51,27,44,54,51,82,59,82,59,94,382,100,98,90,94
+STL0308,none,0,1,1,1,471664,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Complete,229,Average,83,115,84,60,92,64,79,58,58,52,62,53,116,453,122,109,102,120
+STL0314,none,0,1,1,1,966845,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Complete,219,Average,74,110,54,51,73,56,54,51,82,59,62,53,103,410,100,111,90,109
+STL0315,none,1,1,3,2,636817,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,239,Above Average,90,120,90,63,58,52,42,48,96,68,73,56,94,382,97,102,90,93
+STL0319,none,3,3,10,7,649639,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,,STL,Active,96,Very Low,1,54,1,28,1,20,7,35,1,20,1,28,68,284,62,75,74,73
+STL0332,none,0,1,3,3,540042,,Male,,STL,Active,131,Very Low,2,68,4,33,16,40,27,44,1,20,12,38,79,329,64,96,82,87
+STL0333,none,0,1,0,0,569453,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Complete,188,Average,34,94,16,40,21,42,50,50,66,54,58,52,,,,,,
+STL0335,none,1,2,7,6,807688,,Male,,STL,Active,100,Very Low,1,56,1,28,1,20,27,44,1,20,4,32,78,327,66,89,90,82
+STL0336,none,2,2,7,5,802541,,Female,,STL,Active,128,Very Low,1,67,4,33,4,32,14,39,1,20,24,43,105,416,86,107,114,109
+STL1004,none,0,2,5,5,145680,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Active,257,Above Average,97,128,90,63,16,40,27,44,99,74,99,80,95,384,103,91,90,100
+STL1005,none,2,2,4,2,570637,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Active,166,Below Average,13,83,8,36,42,48,42,48,27,44,12,38,104,415,97,102,114,102
+STL1006,none,0,1,3,3,144040,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Active,209,Average,62,105,76,57,27,44,27,44,58,52,73,56,111,437,110,104,105,118
+STL1007,none,0,1,1,1,179886,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Active,213,Average,67,107,12,38,84,60,42,48,82,59,73,56,97,390,100,98,90,102
+STL1025,none,2,2,4,2,276957,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Active,227,Average,82,114,76,57,58,52,86,61,82,59,82,59,105,419,107,98,102,112
+STL1027,none,0,1,3,3,508991,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Active,220,Average,75,110,76,57,42,48,86,61,82,59,73,56,117,458,122,104,114,118
+STL1030,none,0,2,4,4,274101,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Active,177,Average,22,89,54,51,42,48,42,48,16,40,12,38,107,424,100,109,93,122
+STL1033,none,0,1,1,1,924951,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Active,236,Above Average,89,118,90,63,58,52,27,44,82,59,88,62,98,395,103,96,96,100
+STL1034,none,0,1,1,1,422057,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Active,235,Above Average,88,118,90,63,84,60,27,44,82,59,62,53,108,428,121,109,90,108
+STL1036,none,0,1,3,3,955901,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Active,191,Average,38,95,8,36,58,52,66,54,50,50,62,53,110,434,103,111,108,112
+STL1037,none,1,2,8,7,372392,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Female,LR,STL,Active,180,Average,25,90,2,30,73,56,54,51,4,32,88,62,98,395,94,98,105,98
+STL1039,none,2,1,3,1,800599,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,STL,Active,236,Above Average,89,118,66,54,73,56,42,48,82,59,96,67,101,405,103,100,102,100
+STL1043,none,1,1,1,0,509654,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,LR,STL,Active,169,Average,16,85,1,28,34,46,24,43,54,51,27,44,97,390,89,109,96,96
+STL1044,none,0,1,3,3,176409,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Active,170,Average,16,85,27,44,8,36,42,48,50,50,16,40,100,401,101,100,102,98
+STL1045,none,0,1,2,2,897854,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,STL,Active,183,Average,29,92,18,41,8,36,27,44,27,44,88,62,117,455,119,109,105,122
+STL1050,none,1,2,5,4,213043,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Active,224,Average,79,112,54,51,58,52,14,39,73,56,93,65,113,444,101,113,108,122
+STL1051,none,0,1,1,1,712566,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Active,237,Above Average,89,119,34,46,96,68,42,48,73,56,96,67,,,,,,
+STL1052,none,0,1,2,2,491337,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Active,198,Average,47,99,34,46,16,40,42,48,82,59,62,53,103,410,107,96,100,107
+STL1058,none,1,1,2,1,304081,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Active,178,Average,23,89,12,38,27,44,14,39,50,50,34,46,114,445,107,115,114,109
+STL1062,none,0,1,2,2,458560,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,STL,Active,199,Average,49,99,42,48,42,48,42,48,50,50,62,53,107,423,101,102,108,112
+STL1067,none,1,1,1,0,179407,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,STL,Active,191,Average,38,95,14,39,73,56,46,49,50,50,34,46,95,384,94,104,90,96
+STL1068,none,2,3,7,5,281988,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,STL,Active,161,Below Average,10,81,12,38,8,36,42,48,38,47,16,40,105,419,94,111,104,110
+UNC0005,none,0,1,0,0,992450,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,235,Above Average,88,118,98,70,88,62,62,53,42,48,69,55,106,421,113,105,96,107
+UNC0006,none,0,1,1,1,145656,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,314,Very High,99,153,99,78,99,80,38,47,99,76,99,80,110,434,113,111,108,102
+UNC0012,none,1,3,7,6,214769,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,UNC,Active,144,Below Average,4,73,12,38,16,40,66,54,1,20,34,46,91,371,86,96,100,89
+UNC0017,none,0,3,6,6,661845,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Female,LR,UNC,Active,235,Above Average,88,118,58,52,88,62,62,53,54,51,98,70,99,398,113,100,90,95
+UNC0018,none,0,1,3,3,927772,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,276,Very High,99,137,73,56,95,66,24,43,99,74,99,80,104,414,116,100,102,96
+UNC0020,none,0,1,3,3,641585,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,212,Average,66,106,58,52,66,54,73,56,42,48,79,58,95,385,101,93,102,89
+UNC0021,none,0,1,3,3,167672,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,220,Average,75,110,58,52,34,46,24,43,76,57,93,65,103,412,107,107,102,96
+UNC0023,none,0,2,7,7,236316,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,193,Average,41,96,21,42,88,62,50,50,10,37,58,52,104,413,103,104,111,95
+UNC0025,none,0,1,1,1,471178,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,241,Above Average,91,121,99,73,84,60,79,58,58,52,73,56,105,417,107,104,108,98
+UNC0027,none,1,1,2,1,220411,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,212,Average,66,106,90,63,73,56,27,44,27,44,46,49,98,395,101,102,96,96
+UNC0030,none,1,2,4,3,212396,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,170,Average,16,85,34,46,73,56,54,51,2,30,12,38,96,387,94,96,108,89
+UNC0031,none,0,1,0,0,649998,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,203,Average,54,101,54,51,27,44,66,54,58,52,73,56,99,397,103,98,100,96
+UNC0032,none,0,1,2,2,315752,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,185,Average,31,93,16,40,50,50,62,53,16,40,69,55,91,371,91,89,100,91
+UNC0033,none,0,1,1,1,836214,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,251,Above Average,95,125,99,72,88,62,62,53,66,54,90,63,102,407,103,98,111,95
+UNC0040,none,0,1,0,0,302575,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,216,Average,70,108,79,58,66,54,62,53,76,57,38,47,101,406,101,107,105,93
+UNC0041,none,0,1,1,1,778775,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,239,Above Average,90,120,76,57,92,64,54,51,73,56,88,62,106,421,107,104,108,102
+UNC0042,none,0,1,3,3,136846,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,251,Above Average,95,125,99,73,84,60,86,61,73,56,88,62,101,405,101,98,111,95
+UNC0044,none,2,3,6,4,465342,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,UNC,Active,194,Average,42,97,18,41,42,48,14,39,58,52,62,53,91,372,100,91,90,91
+UNC0045,none,0,1,0,0,856858,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,187,Average,33,94,46,49,88,62,62,53,24,43,4,33,103,412,97,113,102,100
+UNC0046,none,2,1,3,1,713824,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,202,Average,53,101,12,38,58,52,54,51,38,47,93,65,97,390,100,104,100,86
+UNC0048,none,0,1,0,0,389321,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,228,Average,83,114,96,68,88,62,73,56,66,54,27,44,103,411,101,117,88,105
+UNC0049,none,0,1,0,0,841306,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,238,Above Average,90,119,95,66,79,58,62,53,66,54,84,60,116,452,110,129,111,102
+UNC0050,none,1,1,2,1,845807,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,211,Average,64,106,54,51,58,52,79,58,58,52,73,56,102,408,101,105,111,91
+UNC0051,none,0,1,2,2,424560,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,259,Above Average,97,129,99,73,96,68,79,58,82,59,82,59,117,456,124,115,113,104
+UNC0054,none,0,1,1,1,413692,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,284,Very High,99,141,99,73,84,60,66,54,98,71,99,80,102,408,100,100,105,103
+UNC0055,none,0,2,4,4,678060,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,172,Average,18,86,4,32,14,39,24,43,24,43,79,58,105,417,94,115,108,100
+UNC0057,none,0,1,0,0,961850,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,224,Average,79,112,66,54,58,52,86,61,73,56,88,62,105,416,107,104,114,91
+UNC0059,none,1,2,4,3,515353,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,263,Very High,98,131,98,70,84,60,79,58,95,66,96,67,94,381,100,100,88,93
+UNC0064,none,0,1,0,0,464943,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,282,Very High,99,140,99,73,84,60,86,61,99,79,98,70,120,467,113,118,127,109
+UNC0065,none,0,1,1,1,893038,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,256,Above Average,97,128,99,79,58,52,66,54,90,63,88,62,102,409,107,104,96,102
+UNC0066,none,1,3,6,5,550690,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,LR,UNC,Active,167,Below Average,14,84,18,41,8,36,86,61,38,47,24,43,99,398,100,104,105,89
+UNC0070,none,1,2,4,3,540777,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,184,Average,30,92,92,64,31,45,54,51,8,36,14,39,96,389,100,98,100,91
+UNC0071,none,0,1,2,2,123794,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,228,Average,83,114,73,56,34,46,5,34,95,66,84,60,100,402,100,102,100,100
+UNC0072,none,2,2,4,2,323421,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,243,Above Average,92,122,96,68,27,44,54,51,95,66,93,65,99,398,107,100,96,95
+UNC0074,none,0,1,0,0,471870,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,208,Average,61,104,34,46,62,53,66,54,73,56,62,53,101,404,97,107,105,95
+UNC0078,none,0,1,0,0,420719,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,262,Very High,98,131,99,74,95,66,84,60,66,54,96,68,107,423,107,104,114,98
+UNC0079,none,0,1,0,0,324373,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,176,Average,21,88,7,35,66,54,62,53,16,40,38,47,103,411,84,120,100,107
+UNC0084,none,0,1,0,0,568175,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,233,Above Average,87,117,27,44,96,68,42,48,73,56,93,65,102,409,100,107,104,98
+UNC0087,none,0,1,2,2,364850,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,200,Average,50,100,31,45,34,46,62,53,54,51,79,58,95,386,100,95,100,91
+UNC0088,none,0,1,0,0,604440,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,204,Average,55,102,31,45,50,50,73,56,54,51,79,58,95,386,101,98,96,91
+UNC0090,none,0,1,0,0,755309,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,197,Average,46,98,42,48,31,45,34,46,31,45,82,59,98,395,100,100,93,102
+UNC0092,none,0,2,4,4,429591,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,174,Average,20,87,2,30,66,54,96,67,42,48,21,42,97,393,89,107,108,89
+UNC0095,none,0,2,4,4,843372,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,205,Average,57,102,21,42,34,46,73,56,76,57,84,60,102,408,100,104,108,96
+UNC0096,none,1,1,3,2,595729,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,171,Average,17,86,16,40,7,35,50,50,66,54,21,42,99,399,100,104,93,102
+UNC0097,none,2,3,6,4,867271,ATYPICAL ADOS severity score greater than or equal to 3 at V24 ,Male,HR,UNC,Active,178,Average,23,89,12,38,73,56,79,58,58,52,4,32,93,378,86,95,108,89
+UNC0101,none,0,1,0,0,798424,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,154,Below Average,7,78,34,46,16,40,86,61,2,30,12,38,105,417,107,107,105,98
+UNC0102,none,0,1,1,1,226176,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,209,Average,62,105,54,51,27,44,79,58,58,52,88,62,101,406,103,104,108,91
+UNC0103,none,0,1,0,0,240946,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,264,Very High,98,132,66,54,99,77,54,51,90,63,98,70,127,490,113,131,129,117
+UNC0104,none,0,1,1,1,119906,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,234,Above Average,87,117,34,46,92,64,66,54,82,59,93,65,107,423,110,113,100,100
+UNC0105,none,0,1,1,1,973689,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,SEA,Active,219,Average,74,110,42,48,62,53,34,46,62,53,93,65,,,,,,
+UNC0106,none,0,1,3,3,983222,YES DSM_IV questions 4a/4b is Yes,Female,HR,UNC,Active,149,Below Average,5,76,12,38,8,36,79,58,4,32,24,43,98,394,97,104,100,93
+UNC0111,none,0,1,0,0,911817,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,268,Very High,99,133,98,70,84,60,66,54,98,71,96,67,104,415,109,100,102,104
+UNC0112,none,0,1,2,2,525281,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,235,Above Average,88,118,46,49,95,66,98,71,76,57,90,63,107,424,110,105,100,109
+UNC0114,none,0,1,3,3,305154,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,191,Average,38,95,42,48,27,44,66,54,73,56,24,43,106,420,105,113,102,100
+UNC0116,none,2,1,4,2,525057,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,198,Average,47,99,12,38,58,52,79,58,58,52,73,56,99,399,97,104,102,96
+UNC0119,none,0,2,4,4,868632,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,217,Average,72,109,66,54,58,52,79,58,58,52,82,59,97,391,100,96,102,93
+UNC0120,none,0,1,1,1,974849,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,272,Very High,99,135,99,73,84,60,86,61,82,59,99,80,108,428,107,107,111,103
+UNC0121,none,1,1,3,2,710567,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,224,Average,79,112,66,54,58,52,79,58,73,56,88,62,111,436,107,115,105,109
+UNC0122,none,0,1,0,0,218286,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,297,Very High,99,146,99,73,99,77,99,72,99,77,98,70,131,506,121,127,135,123
+UNC0123,none,0,2,5,5,449310,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,181,Average,27,91,42,48,58,52,99,77,38,47,5,34,,,,,,
+UNC0124,none,0,1,1,1,494479,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,170,Average,16,85,16,40,7,35,38,47,24,43,58,52,90,368,91,98,90,89
+UNC0127,none,0,1,0,0,229701,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,222,Average,77,111,76,57,27,44,96,68,82,59,88,62,109,431,103,118,105,105
+UNC0131,none,0,1,0,0,706653,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,241,Above Average,91,121,90,63,84,60,86,61,73,56,88,62,100,400,101,102,102,95
+UNC0132,none,1,1,3,2,889327,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,207,Average,59,104,46,49,34,46,50,50,66,54,79,58,99,397,97,102,105,93
+UNC0133,none,0,1,3,3,631202,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,232,Above Average,86,116,34,46,84,60,86,61,73,56,98,70,105,419,97,115,111,96
+UNC0135,none,0,2,5,5,176050,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,205,Average,57,102,27,44,73,56,79,58,58,52,62,53,109,431,102,119,106,104
+UNC0137,none,0,1,1,1,622437,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,189,Average,36,95,54,51,16,40,96,68,58,52,34,46,105,417,103,109,102,103
+UNC0143,none,0,1,0,0,623831,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,224,Average,79,112,66,54,73,56,86,61,58,52,88,62,105,416,107,102,111,96
+UNC0146,none,0,1,0,0,768690,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,256,Above Average,97,128,76,57,73,56,54,51,90,63,99,80,100,402,100,104,96,102
+UNC0147,none,0,1,3,3,136262,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,261,Very High,98,130,90,63,84,60,92,64,98,71,96,67,102,409,107,104,100,98
+UNC0148,none,0,1,2,2,443805,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,237,Above Average,89,119,42,48,96,68,86,61,82,59,88,62,103,411,110,104,102,95
+UNC0150,none,0,1,1,1,216279,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,214,Average,68,107,34,46,73,56,79,58,38,47,93,65,111,436,105,117,108,106
+UNC0154,none,0,1,3,3,710239,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,215,Average,69,108,54,51,58,52,66,54,73,56,73,56,110,433,102,119,106,106
+UNC0156,none,1,2,4,3,316808,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,224,Average,79,112,66,54,58,52,66,54,73,56,88,62,104,415,101,105,102,107
+UNC0158,none,0,1,0,0,895096,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,264,Very High,98,132,99,75,73,56,86,61,95,66,96,67,111,437,113,102,120,102
+UNC0183,none,0,1,0,0,264928,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,206,Average,58,103,31,45,34,46,38,47,76,57,79,58,100,401,101,102,100,98
+UNC0186,none,0,1,0,0,817034,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,239,Above Average,90,120,96,68,66,54,62,53,66,54,90,63,98,395,101,100,105,89
+UNC0189,none,1,2,5,4,701672,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,202,Average,53,101,38,47,34,46,50,50,66,54,69,55,94,383,100,96,96,91
+UNC0192,none,0,1,2,2,309070,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,218,Average,73,109,76,57,96,68,54,51,16,40,62,53,94,382,97,91,105,89
+UNC0194,none,0,1,3,3,486701,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,265,Very High,98,132,90,63,92,64,66,54,98,71,96,67,98,396,107,102,96,91
+UNC0195,none,1,2,5,4,963992,YES DSM_IV questions 4a/4b is Yes,Male,HR,UNC,Active,169,Average,16,85,27,44,4,32,79,58,27,44,46,49,95,386,101,100,90,95
+UNC0199,none,0,1,0,0,439453,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,240,Above Average,91,120,92,64,66,54,96,67,92,64,79,58,123,478,125,118,117,118
+UNC0201,none,0,1,2,2,388210,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,259,Above Average,97,129,98,70,96,68,96,68,82,59,88,62,102,408,103,104,105,96
+UNC0206,none,0,1,1,1,813472,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,200,Average,50,100,76,57,27,44,99,77,82,59,16,40,100,402,103,102,102,95
+UNC0207,none,2,1,5,3,786888,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,209,Average,62,105,4,33,58,52,79,58,82,59,93,65,92,374,91,104,93,86
+UNC0214,none,1,2,4,3,583629,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,168,Below Average,15,84,31,45,21,42,50,50,10,37,27,44,91,372,94,89,93,96
+UNC0216,none,0,1,0,0,257550,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,282,Very High,99,140,99,72,95,66,99,76,92,64,99,80,117,458,116,120,108,114
+UNC0221,none,0,1,0,0,580421,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,252,Above Average,96,126,99,73,73,56,79,58,73,56,96,67,101,404,101,100,100,103
+UNC0222,none,0,1,0,0,912315,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,221,Average,76,111,42,48,58,52,86,61,73,56,93,65,99,399,103,98,102,96
+UNC0227,none,1,1,3,2,977402,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Male,,UNC,Active,145,Below Average,4,74,18,41,8,36,27,44,16,40,1,28,,,,,,
+UNC0229,none,1,1,3,2,793001,NO DSM_IV questions 4a/4b is no and not atypical ,Female,,UNC,Active,185,Average,31,93,34,46,16,40,54,51,16,40,82,59,94,380,101,98,90,91
+UNC0238,none,1,2,8,7,359973,YES DSM_IV questions 4a/4b is Yes,Male,,UNC,Active,96,Very Low,1,54,1,28,1,24,27,44,1,20,1,24,,,,,,
+UNC0241,none,1,1,2,1,210765,NO DSM_IV questions 4a/4b is no and not atypical ,Female,,UNC,Active,197,Average,46,98,27,44,58,52,86,61,58,52,46,49,90,368,94,91,90,93
+UNC0244,none,1,1,4,3,125787,ATYPICAL Mullen: 1 or more sub-scale Tscore less than 30 at V24,Female,,UNC,Active,90,Very Low,1,52,1,20,2,30,50,50,1,20,1,20,85,351,81,91,90,89
+UNC1000,none,0,1,3,3,417410,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,259,Above Average,97,129,99,73,84,60,66,54,82,59,96,67,136,524,128,145,120,131
+UNC1001,none,0,1,2,2,223686,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,201,Average,51,100,54,51,42,48,66,54,16,40,88,62,97,390,103,96,102,89
+UNC1002,none,0,1,2,2,404956,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,236,Above Average,89,118,27,44,73,56,27,44,95,66,98,70,102,407,103,105,96,103
+UNC1003,none,0,1,2,2,225196,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,207,Average,59,104,34,46,58,52,14,39,73,56,62,53,93,379,89,102,90,98
+UNC1006,none,1,1,3,2,137726,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,205,Average,57,102,12,38,58,52,27,44,73,56,82,59,104,414,97,113,108,96
+UNC1008,none,1,1,1,0,309488,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,256,Above Average,97,128,99,75,58,52,54,51,82,59,98,70,101,406,116,98,96,96
+UNC1009,none,0,1,0,0,488074,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,268,Very High,99,133,99,75,84,60,79,58,96,68,93,65,100,402,110,96,96,100
+UNC1012,none,0,1,2,2,802785,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,264,Very High,98,132,98,70,92,64,92,64,90,63,96,67,103,410,107,102,105,96
+UNC1013,none,1,1,1,0,490181,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,235,Above Average,88,118,76,57,58,52,54,51,82,59,96,67,97,393,103,104,93,93
+UNC1014,none,0,1,1,1,158296,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,225,Average,80,113,46,49,66,54,84,60,76,57,93,65,98,396,107,100,96,93
+UNC1015,none,0,1,1,1,338874,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,186,Average,32,93,18,41,31,45,66,54,38,47,62,53,99,399,97,102,102,98
+UNC1016,none,0,1,2,2,588132,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,271,Very High,99,135,99,75,96,68,86,61,95,66,88,62,107,423,113,100,114,96
+UNC1018,none,0,1,3,3,309419,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,223,Average,78,112,86,61,76,57,88,62,46,49,73,56,105,416,107,100,111,98
+UNC1020,none,0,1,1,1,516605,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,250,Above Average,95,125,99,74,66,54,84,60,76,57,93,65,107,423,113,105,105,100
+UNC1021,none,0,1,3,3,584746,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,238,Above Average,90,119,96,68,58,52,92,64,82,59,82,59,101,406,101,102,108,95
+UNC1023,none,0,1,3,3,108372,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,237,Above Average,89,119,73,56,88,62,73,56,92,64,69,55,108,427,113,104,114,96
+UNC1024,none,0,2,4,4,136806,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,200,Average,50,100,31,45,88,62,73,56,54,51,21,42,103,410,103,100,114,93
+UNC1025,none,1,2,8,7,788407,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,186,Average,32,93,4,33,84,60,66,54,38,47,34,46,87,359,86,87,100,86
+UNC1027,none,0,1,0,0,878962,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,241,Above Average,91,121,90,63,73,56,86,61,90,63,82,59,98,394,103,96,102,93
+UNC1029,none,1,1,1,0,302717,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,176,Average,21,88,66,54,8,36,66,54,58,52,5,34,97,390,101,98,96,95
+UNC1032,none,0,1,5,5,999434,ATYPICAL Mullen: 2 or more sub-scale Tscore less than 35 at V24,Female,HR,UNC,Active,156,Below Average,8,79,10,37,66,54,24,43,4,32,4,33,95,385,94,98,100,93
+UNC1034,none,0,1,2,2,717112,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,254,Above Average,96,127,84,60,99,72,66,54,90,63,82,59,100,400,102,104,100,94
+UNC1036,none,0,1,2,2,144896,NO DSM_IV questions 4a/4b is no and not atypical ,Female,HR,UNC,Active,283,Very High,99,140,99,73,99,72,54,51,90,63,99,75,108,427,116,109,100,102
+UNC1038,none,0,1,2,2,186041,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,237,Above Average,89,119,84,60,84,60,86,61,58,52,93,65,96,387,100,98,100,89
+UNC1039,none,0,1,1,1,532464,NO DSM_IV questions 4a/4b is no and not atypical ,Male,HR,UNC,Active,250,Above Average,95,125,98,70,58,52,54,51,90,63,93,65,100,401,100,104,102,95
+UNC1041,none,0,1,1,1,692620,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,223,Average,78,112,34,46,58,52,79,58,90,63,88,62,98,396,101,100,102,93
+UNC1043,none,0,2,4,4,142306,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,174,Average,20,87,54,51,27,44,92,64,2,30,46,49,108,428,107,104,117,100
+UNC1046,none,1,1,2,1,597924,NO DSM_IV questions 4a/4b is no and not atypical ,Male,LR,UNC,Active,219,Average,74,110,12,38,84,60,86,61,82,59,88,62,97,390,101,98,102,89
+UNC1047,none,2,1,2,0,837004,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,271,Very High,99,135,54,51,99,77,79,58,96,68,99,75,102,409,110,104,100,95
+UNC1050,none,0,1,2,2,188579,NO DSM_IV questions 4a/4b is no and not atypical ,Female,LR,UNC,Active,247,Above Average,94,123,86,61,95,66,84,60,76,57,90,63,,,,,,

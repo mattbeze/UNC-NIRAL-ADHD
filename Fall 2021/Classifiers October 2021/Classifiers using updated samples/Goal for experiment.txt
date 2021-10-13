@@ -1,0 +1,3 @@
+Metrics between the CONTE and Twin validation sets are different. Can try 1/2 twin 1/2 conte training and same with validation. If there isn't enough data for THAT to work, then would do a full twin & conte: Either take one twin or double contes making sure that twins are in the same training fold. As soon as twins are included in training, they must both be training or both validation. Easiest is to enforce a single twin. If a twin is atypical, select that one. Want to shoot for a recall higher than 0.5, and a ppv higher than 0.2. Also add age@scan as a feature, maternal education (MEDU). Go for combined twin and conte training.
+Could also try doing prediction from 2 year
+Mausi Sakalvida - Has updated file for BASC2 & Demographics
